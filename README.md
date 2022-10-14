@@ -1,5 +1,7 @@
 # Watering-IoT-Cloud
-Kode untuk Sistem Watering Plant through Arduino IoT Cloud using NodeMCU
+Code for Watering Plant system through Arduino IoT Cloud using NodeMCU
+
+Using NodeMCU ESP8266, this is an arduino system using Internet of Things where it notifies users the percentage of humidity level of the soil and water pump active when it’s below 20%.
 
 Below is the schematic
 
